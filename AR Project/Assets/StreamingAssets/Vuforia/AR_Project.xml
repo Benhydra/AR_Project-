@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Dragon_Red" size="0.300000 0.197063" />
+    <ImageTarget name="Notre_Dame" size="0.300000 0.195742" />
+    <ImageTarget name="Spider-Man_Comic_Image" size="0.150000 0.230417" />
+    <ImageTarget name="Spider-Man_Ship_Scene" size="0.150000 0.064286" />
+  </Tracking>
+</QCARConfig>
